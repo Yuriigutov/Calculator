@@ -47,6 +47,7 @@ body {
   border: none;
   font-size: 20px;
   cursor: pointer;
+  color: gray;
   background-color: #d1c9c9;
 }
 
@@ -59,11 +60,9 @@ body {
 }
 
 .bg-orange {
-  /* color: #ff9501; */
   background-color: #ff9501 !important;
 }
 
 .operator {
-  /* color: #2f9fff; */
   background: #a6a6a6 !important;
 }
